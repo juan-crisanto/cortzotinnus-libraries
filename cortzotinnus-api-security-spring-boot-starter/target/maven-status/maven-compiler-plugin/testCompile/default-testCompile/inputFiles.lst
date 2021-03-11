@@ -1,0 +1,4 @@
+/home/juan-diego/code/personal-projects/cortzotinnus-libraries/cortzotinnus-api-security-spring-boot-starter/src/test/java/pe/cortzotinnus/security/provider/JWTAuthenticationProviderTest.java
+/home/juan-diego/code/personal-projects/cortzotinnus-libraries/cortzotinnus-api-security-spring-boot-starter/src/test/java/pe/cortzotinnus/security/web/util/CookieTokenExtractorTest.java
+/home/juan-diego/code/personal-projects/cortzotinnus-libraries/cortzotinnus-api-security-spring-boot-starter/src/test/java/pe/cortzotinnus/security/web/util/HttpHeaderTokenExtractorTest.java
+/home/juan-diego/code/personal-projects/cortzotinnus-libraries/cortzotinnus-api-security-spring-boot-starter/src/test/java/pe/cortzotinnus/security/web/filter/JWTAuthenticationFilterTest.java
